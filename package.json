@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "appium": "^2.2.3",
     "appium-uiautomator2-driver": "^2.34.2"
   }
 }
